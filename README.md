@@ -388,6 +388,12 @@ Reference paper: https://arxiv.org/abs/2308.01068.
 
 - Comparison of Quantum Simulators for Variational Quantum Search: A Benchmark Study: https://arxiv.org/abs/2309.05924.
 
+- Generative quantum machine learning via denoising diffusion probabilistic models: https://arxiv.org/abs/2310.05866.
+
+- Quantum imaginary time evolution and quantum annealing meet topological sector optimization: https://arxiv.org/abs/2310.04291.
+
+- Google Summer of Code 2023 Projects (QML4HEP): https://github.com/ML4SCI/QMLHEP, https://github.com/Gopal-Dahale/qgnn-hep, https://github.com/salcc/QuantumTransformers.
+
   </details>
 
-If you want to highlight your research work here, feel free to add by opening PR.
+If you want to highlight your research work or projects here, feel free to add by opening PR.

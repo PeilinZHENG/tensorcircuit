@@ -12,11 +12,17 @@
 
 - Add `partial_transpose` and `entanglement_negativity` method in `quantum.py`
 
+- Add `reduced_wavefunction` method in `quantum.py` to get reduced pure state
+
 ### Changed
 
 - move ensemble module to applications/ai (breaking changes)
 
 - tc2qiskit now record qiskit measure with incremental clbit from 0
+
+### Fixed
+
+- Support degenerate eigenvalue for jax backend `eigh` method when using AD
 
 ## 0.11.0
 
