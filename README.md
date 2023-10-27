@@ -233,7 +233,7 @@ We also have [Docker support](/docker).
 
 ### Status
 
-This project is released by [Tencent Quantum Lab](https://quantum.tencent.com/) and is created and maintained by [Shi-Xin Zhang](https://github.com/refraction-ray) with current core authors [Shi-Xin Zhang](https://github.com/refraction-ray) and [Yu-Qin Chen](https://github.com/yutuer21). We also thank [contributions](https://github.com/tencent-quantum-lab/tensorcircuit/graphs/contributors) from the lab and the open source community.
+This project is created and maintained by [Shi-Xin Zhang](https://github.com/refraction-ray) with current core authors [Shi-Xin Zhang](https://github.com/refraction-ray) and [Yu-Qin Chen](https://github.com/yutuer21). We also thank [contributions](https://github.com/tencent-quantum-lab/tensorcircuit/graphs/contributors) from the open source community.
 
 ### Citation
 
@@ -387,6 +387,8 @@ Reference paper: https://arxiv.org/abs/2308.01068.
 - Zero and Finite Temperature Quantum Simulations Powered by Quantum Magic: https://arxiv.org/abs/2308.11616.
 
 - Comparison of Quantum Simulators for Variational Quantum Search: A Benchmark Study: https://arxiv.org/abs/2309.05924.
+
+- Statistical analysis of quantum state learning process in quantum neural networks: https://arxiv.org/abs/2309.14980 (Pubilshed in NeurIPS).
 
 - Generative quantum machine learning via denoising diffusion probabilistic models: https://arxiv.org/abs/2310.05866.
 
