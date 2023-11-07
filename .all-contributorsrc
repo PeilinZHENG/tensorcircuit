@@ -282,6 +282,24 @@
         "code",
         "test"
       ]
+    },
+    {
+      "login": "ztzhu1",
+      "name": "ztzhu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111620128?v=4",
+      "profile": "https://github.com/ztzhu1",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "royess",
+      "name": "Rabqubit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31059422?v=4",
+      "profile": "https://github.com/royess",
+      "contributions": [
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 6,
